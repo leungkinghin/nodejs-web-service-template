@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-web-service-template",
+  "version": "1.0.0",
+  "description": "Sample web service powered by Node.js",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "King-Hin Leung",
+  "license": "ISC"
+}
